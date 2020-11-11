@@ -4,7 +4,7 @@
         <Value>PolicyVersion</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>539</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -12,7 +12,7 @@
         <Value>EnableFirewall</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -20,7 +20,7 @@
         <Value>DefaultOutboundAction</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -28,7 +28,7 @@
         <Value>DefaultInboundAction</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -36,7 +36,7 @@
         <Value>LogFileSize</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>16384</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -44,7 +44,7 @@
         <Value>LogDroppedPackets</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -52,7 +52,7 @@
         <Value>LogSuccessfulConnections</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -60,7 +60,7 @@
         <Value>EnableFirewall</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -68,7 +68,7 @@
         <Value>DefaultOutboundAction</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -76,7 +76,7 @@
         <Value>DefaultInboundAction</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -84,7 +84,7 @@
         <Value>LogFileSize</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>16384</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -92,7 +92,7 @@
         <Value>LogDroppedPackets</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -100,7 +100,7 @@
         <Value>LogSuccessfulConnections</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -108,7 +108,7 @@
         <Value>EnableFirewall</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -116,7 +116,7 @@
         <Value>DefaultOutboundAction</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -124,7 +124,7 @@
         <Value>DefaultInboundAction</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -132,7 +132,7 @@
         <Value>AllowLocalPolicyMerge</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -140,7 +140,7 @@
         <Value>AllowLocalIPsecPolicyMerge</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -148,7 +148,7 @@
         <Value>LogFileSize</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>16384</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -156,7 +156,7 @@
         <Value>LogDroppedPackets</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -164,7 +164,7 @@
         <Value>LogSuccessfulConnections</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Firewall V1R7\GPOs\{336EC8CD-78A5-4053-848D-C61FDCB0D4D1}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Firewall STIG v1r7</PolicyName>
     </ComputerConfig>
 </PolicyRules>

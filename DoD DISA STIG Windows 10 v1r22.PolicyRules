@@ -4,7 +4,7 @@
         <Value>NoPreviewPane</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{801C0C14-E84C-4827-BA94-B50F0EE1A59A}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG User v1r22</PolicyName>
     </UserConfig>
     <UserConfig>
@@ -12,7 +12,7 @@
         <Value>NoReadingPane</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{801C0C14-E84C-4827-BA94-B50F0EE1A59A}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG User v1r22</PolicyName>
     </UserConfig>
     <UserConfig>
@@ -20,7 +20,7 @@
         <Value>DisablePersonalSync</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{801C0C14-E84C-4827-BA94-B50F0EE1A59A}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG User v1r22</PolicyName>
     </UserConfig>
     <UserConfig>
@@ -28,7 +28,7 @@
         <Value>DisableThirdPartySuggestions</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{801C0C14-E84C-4827-BA94-B50F0EE1A59A}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG User v1r22</PolicyName>
     </UserConfig>
     <UserConfig>
@@ -36,7 +36,7 @@
         <Value>NoToastApplicationNotificationOnLockScreen</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{801C0C14-E84C-4827-BA94-B50F0EE1A59A}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG User v1r22</PolicyName>
     </UserConfig>
     <ComputerConfig>
@@ -44,7 +44,7 @@
         <Value>SuppressionPolicy</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>4096</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -52,7 +52,7 @@
         <Value>SuppressionPolicy</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>4096</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -60,7 +60,7 @@
         <Value>SuppressionPolicy</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>4096</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -68,7 +68,7 @@
         <Value>SuppressionPolicy</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>4096</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -76,7 +76,7 @@
         <Value>AutoConnectAllowedOEM</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -84,7 +84,7 @@
         <Value>EnumerateAdministrators</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -92,7 +92,7 @@
         <Value>NoWebServices</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -100,7 +100,7 @@
         <Value>NoAutorun</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -108,7 +108,7 @@
         <Value>NoDriveTypeAutoRun</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>255</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -116,7 +116,7 @@
         <Value>NoStartBanner</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -124,7 +124,7 @@
         <Value>MSAOptional</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -132,7 +132,7 @@
         <Value>DisableAutomaticRestartSignOn</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -140,7 +140,7 @@
         <Value>LocalAccountTokenFilterPolicy</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -148,7 +148,7 @@
         <Value>ProcessCreationIncludeCmdLine_Enabled</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -156,7 +156,7 @@
         <Value>EnhancedAntiSpoofing</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -164,7 +164,7 @@
         <Value>EccCurves</Value>
         <RegType>REG_MULTI_SZ</RegType>
         <RegData>NistP384\0NistP256</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -172,7 +172,7 @@
         <Value>UseAdvancedStartup</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -180,7 +180,7 @@
         <Value>EnableBDEWithNoTPM</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -188,7 +188,7 @@
         <Value>UseTPM</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -196,7 +196,7 @@
         <Value>UseTPMPIN</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -204,7 +204,7 @@
         <Value>UseTPMKey</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -212,7 +212,7 @@
         <Value>UseTPMKeyPIN</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -220,7 +220,7 @@
         <Value>MinimumPIN</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>6</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -228,7 +228,7 @@
         <Value>DisableEnclosureDownload</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -236,7 +236,7 @@
         <Value>PreventCertErrorOverrides</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -244,7 +244,7 @@
         <Value>FormSuggest Passwords</Value>
         <RegType>REG_SZ</RegType>
         <RegData>no</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -252,7 +252,7 @@
         <Value>EnabledV9</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -260,7 +260,7 @@
         <Value>PreventOverrideAppRepUnknown</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -268,7 +268,7 @@
         <Value>PreventOverride</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -276,7 +276,7 @@
         <Value>1111-2222-3333-4444</Value>
         <RegType>REG_SZ</RegType>
         <RegData>1111-2222-3333-4444</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -284,7 +284,7 @@
         <Value>RequireSecurityDevice</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -292,7 +292,7 @@
         <Value>TPM12</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -300,7 +300,7 @@
         <Value>MinimumPINLength</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>6</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -308,7 +308,7 @@
         <Value>DCSettingIndex</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -316,7 +316,7 @@
         <Value>ACSettingIndex</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -324,7 +324,7 @@
         <Value>DisableInventory</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -332,7 +332,7 @@
         <Value>LetAppsActivateWithVoiceAboveLock</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -340,7 +340,7 @@
         <Value>DisableWindowsConsumerFeatures</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -348,7 +348,7 @@
         <Value>AllowProtectedCreds</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -356,7 +356,7 @@
         <Value>AllowTelemetry</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -364,7 +364,7 @@
         <Value>LimitEnhancedDiagnosticDataWindowsAnalytics</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -372,7 +372,7 @@
         <Value>DODownloadMode</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -380,7 +380,7 @@
         <Value>EnableVirtualizationBasedSecurity</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -388,7 +388,7 @@
         <Value>RequirePlatformSecurityFeatures</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -396,7 +396,7 @@
         <Value>HypervisorEnforcedCodeIntegrity</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>3</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -404,7 +404,7 @@
         <Value>HVCIMATRequired</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -412,7 +412,7 @@
         <Value>LsaCfgFlags</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -420,7 +420,7 @@
         <Value>ConfigureSystemGuardLaunch</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -428,7 +428,7 @@
         <Value>MaxSize</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>32768</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -436,7 +436,7 @@
         <Value>MaxSize</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1024000</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -444,7 +444,7 @@
         <Value>MaxSize</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>32768</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -452,7 +452,7 @@
         <Value>NoAutoplayfornonVolume</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -460,7 +460,7 @@
         <Value>AllowGameDVR</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -468,7 +468,7 @@
         <Value>NoBackgroundPolicy</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -476,7 +476,7 @@
         <Value>NoGPOListChanges</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -484,7 +484,7 @@
         <Value>EnableUserControl</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -492,7 +492,7 @@
         <Value>AlwaysInstallElevated</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -500,7 +500,7 @@
         <Value>DeviceEnumerationPolicy</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -508,7 +508,7 @@
         <Value>AllowInsecureGuestAuth</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -516,7 +516,7 @@
         <Value>NC_ShowSharedAccessUI</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -524,7 +524,7 @@
         <Value>\\*\SYSVOL</Value>
         <RegType>REG_SZ</RegType>
         <RegData>RequireMutualAuthentication=1,RequireIntegrity=1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -532,7 +532,7 @@
         <Value>\\*\NETLOGON</Value>
         <RegType>REG_SZ</RegType>
         <RegData>RequireMutualAuthentication=1,RequireIntegrity=1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -540,7 +540,7 @@
         <Value>NoLockScreenCamera</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -548,7 +548,7 @@
         <Value>NoLockScreenSlideshow</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -556,7 +556,7 @@
         <Value>EnableScriptBlockLogging</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -564,7 +564,7 @@
         <Value>**del.EnableScriptBlockInvocationLogging</Value>
         <RegType>REG_SZ</RegType>
         <RegData></RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -572,7 +572,7 @@
         <Value>DontDisplayNetworkSelectionUI</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -580,7 +580,7 @@
         <Value>EnumerateLocalUsers</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -588,7 +588,7 @@
         <Value>EnableSmartScreen</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -596,7 +596,7 @@
         <Value>ShellSmartScreenLevel</Value>
         <RegType>REG_SZ</RegType>
         <RegData>Block</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -604,7 +604,7 @@
         <Value>AllowDomainPINLogon</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -612,7 +612,7 @@
         <Value>fBlockNonDomain</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -620,7 +620,7 @@
         <Value>AllowIndexingEncryptedStoresOrItems</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -628,7 +628,7 @@
         <Value>AllowBasic</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -636,7 +636,7 @@
         <Value>AllowUnencryptedTraffic</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -644,7 +644,7 @@
         <Value>AllowDigest</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -652,7 +652,7 @@
         <Value>AllowBasic</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -660,7 +660,7 @@
         <Value>AllowUnencryptedTraffic</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -668,7 +668,7 @@
         <Value>DisableRunAs</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -676,7 +676,7 @@
         <Value>ExploitProtectionSettings</Value>
         <RegType>REG_SZ</RegType>
         <RegData>\\YOUR_FOLDER_SHARE\DOD_EP_V3.xml</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -684,7 +684,7 @@
         <Value>DisableWebPnPDownload</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -692,7 +692,7 @@
         <Value>DisableHTTPPrinting</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -700,7 +700,7 @@
         <Value>RestrictRemoteClients</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -708,7 +708,7 @@
         <Value>fAllowToGetHelp</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -716,7 +716,7 @@
         <Value>**del.fAllowFullControl</Value>
         <RegType>REG_SZ</RegType>
         <RegData></RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -724,7 +724,7 @@
         <Value>**del.MaxTicketExpiry</Value>
         <RegType>REG_SZ</RegType>
         <RegData></RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -732,7 +732,7 @@
         <Value>**del.MaxTicketExpiryUnits</Value>
         <RegType>REG_SZ</RegType>
         <RegData></RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -740,7 +740,7 @@
         <Value>**del.fUseMailto</Value>
         <RegType>REG_SZ</RegType>
         <RegData></RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -748,7 +748,7 @@
         <Value>DisablePasswordSaving</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -756,7 +756,7 @@
         <Value>fDisableCdm</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -764,7 +764,7 @@
         <Value>fPromptForPassword</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -772,7 +772,7 @@
         <Value>fEncryptRPCTraffic</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -780,7 +780,7 @@
         <Value>MinEncryptionLevel</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>3</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -788,7 +788,7 @@
         <Value>AllowWindowsInkWorkspace</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -796,7 +796,7 @@
         <Value>UseLogonCredential</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -804,7 +804,7 @@
         <Value>DisableExceptionChainValidation</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -812,7 +812,7 @@
         <Value>DriverLoadPolicy</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>3</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -820,7 +820,7 @@
         <Value>SMB1</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -828,7 +828,7 @@
         <Value>Start</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>4</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -836,7 +836,7 @@
         <Value>NoNameReleaseOnDemand</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -844,7 +844,7 @@
         <Value>DisableIPSourceRouting</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -852,7 +852,7 @@
         <Value>EnableICMPRedirect</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -860,594 +860,594 @@
         <Value>DisableIPSourceRouting</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </ComputerConfig>
     <SecurityTemplate Section="System Access">
         <LineItem>MinimumPasswordAge=1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>MaximumPasswordAge=60</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>MinimumPasswordLength=14</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>PasswordComplexity=1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>PasswordHistorySize=24</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>LockoutBadCount=3</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>ResetLockoutCount=15</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>LockoutDuration=15</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>NewAdministratorName="X_Admin"</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>NewGuestName="Visitor"</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>ClearTextPassword=0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>LSAAnonymousNameLookup=0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>EnableAdminAccount=0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="System Access">
         <LineItem>EnableGuestAccount=0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\CachedLogonsCount=1,"10"</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\ScRemoveOption=1,"1"</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\ConsentPromptBehaviorAdmin=4,2</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\ConsentPromptBehaviorUser=4,0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\EnableInstallerDetection=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\EnableLUA=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\EnableSecureUIAPaths=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\EnableVirtualization=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\FilterAdministratorToken=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\InactivityTimeoutSecs=4,900</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\Kerberos\Parameters\SupportedEncryptionTypes=4,2147483640</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\LegalNoticeCaption=1,"US Department of Defense Warning Statement"</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System\LegalNoticeText=7,You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-authorized use only.,By using this IS (which includes any device attached to this IS)"," you consent to the following conditions:,-The USG routinely intercepts and monitors communications on this IS for purposes including"," but not limited to"," penetration testing"," COMSEC monitoring"," network operations and defense"," personnel misconduct (PM)"," law enforcement (LE)"," and counterintelligence (CI) investigations.,-At any time"," the USG may inspect and seize data stored on this IS.,-Communications using"," or data stored on"," this IS are not private"," are subject to routine monitoring"," interception"," and search"," and may be disclosed or used for any USG-authorized purpose.,-This IS includes security measures (e.g."," authentication and access controls) to protect USG interests--not for your personal benefit or privacy.,-Notwithstanding the above"," using this IS does not constitute consent to PM"," LE or CI investigative searching or monitoring of the content of privileged communications"," or work product"," related to personal representation or services by attorneys"," psychotherapists"," or clergy"," and their assistants. Such communications and work product are private and confidential. See User Agreement for details.</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\EveryoneIncludesAnonymous=4,0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\FIPSAlgorithmPolicy\Enabled=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\LimitBlankPasswordUse=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\LmCompatibilityLevel=4,5</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\MSV1_0\allownullsessionfallback=4,0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\MSV1_0\NTLMMinClientSec=4,537395200</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\MSV1_0\NTLMMinServerSec=4,537395200</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\NoLMHash=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\pku2u\AllowOnlineID=4,0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\RestrictAnonymous=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\RestrictAnonymousSAM=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\RestrictRemoteSAM=1,"O:BAG:BAD:(A;;RC;;;BA)"</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\SCENoApplyLegacyAuditPolicy=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Control\Session Manager\ProtectionMode=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\LanManServer\Parameters\RequireSecuritySignature=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\LanManServer\Parameters\RestrictNullSessAccess=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\LanmanWorkstation\Parameters\EnablePlainTextPassword=4,0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\LanmanWorkstation\Parameters\RequireSecuritySignature=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\LDAP\LDAPClientIntegrity=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\Netlogon\Parameters\DisablePasswordChange=4,0</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\Netlogon\Parameters\MaximumPasswordAge=4,30</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\Netlogon\Parameters\RequireSignOrSeal=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\Netlogon\Parameters\RequireStrongKey=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\Netlogon\Parameters\SealSecureChannel=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Registry Values">
         <LineItem>MACHINE\System\CurrentControlSet\Services\Netlogon\Parameters\SignSecureChannel=4,1</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Service General Setting">
         <LineItem>"seclogon",4,""</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeTrustedCredManAccessPrivilege=</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeNetworkLogonRight=*S-1-5-32-555,*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeTcbPrivilege=</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeInteractiveLogonRight=*S-1-5-32-545,*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeBackupPrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeSystemtimePrivilege=*S-1-5-80-3169285310-278349998-1452333686-3865143136-4212226833,*S-1-5-19,*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeCreatePagefilePrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeCreateTokenPrivilege=</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeCreateGlobalPrivilege=*S-1-5-6,*S-1-5-20,*S-1-5-19,*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeCreatePermanentPrivilege=</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeCreateSymbolicLinkPrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeDebugPrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeDenyNetworkLogonRight=*S-1-5-113,*S-1-5-32-546,ADD YOUR ENTERPRISE ADMINS,ADD YOUR DOMAIN ADMINS</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeDenyBatchLogonRight=ADD YOUR ENTERPRISE ADMINS,ADD YOUR DOMAIN ADMINS</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeDenyServiceLogonRight=ADD YOUR ENTERPRISE ADMINS,ADD YOUR DOMAIN ADMINS</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeDenyInteractiveLogonRight=*S-1-5-32-546,ADD YOUR ENTERPRISE ADMINS,ADD YOUR DOMAIN ADMINS</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeDenyRemoteInteractiveLogonRight=*S-1-5-113,*S-1-5-32-546,ADD YOUR ENTERPRISE ADMINS,ADD YOUR DOMAIN ADMINS</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeEnableDelegationPrivilege=</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeRemoteShutdownPrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeImpersonatePrivilege=*S-1-5-6,*S-1-5-20,*S-1-5-19,*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeLoadDriverPrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeLockMemoryPrivilege=</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeSecurityPrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeSystemEnvironmentPrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeManageVolumePrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeProfileSingleProcessPrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeRestorePrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <SecurityTemplate Section="Privilege Rights">
         <LineItem>SeTakeOwnershipPrivilege=*S-1-5-32-544</LineItem>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
+        <SourceFile>microsoft\windows nt\SecEdit\GptTmpl.inf</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </SecurityTemplate>
     <AuditSubcategory>
         <GUID>{0cce923f-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Credential Validation</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9237-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Security Group Management</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9235-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit User Account Management</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9248-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit PNP Activity</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce922b-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Process Creation</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9217-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Account Lockout</Name>
         <Setting>2</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9249-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Group Membership</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9216-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Logoff</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9215-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Logon</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce921c-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Other Logon/Logoff Events</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce921b-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Special Logon</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9244-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Detailed File Share</Name>
         <Setting>2</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9224-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit File Share</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9227-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Other Object Access Events</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9245-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Removable Storage</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce922f-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Audit Policy Change</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9230-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Authentication Policy Change</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9231-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Authorization Policy Change</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9232-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit MPSSVC Rule-Level Policy Change</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9234-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Other Policy Change Events</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9228-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Sensitive Privilege Use</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9213-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit IPsec Driver</Name>
         <Setting>2</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9214-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Other System Events</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9210-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Security State Change</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9211-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit Security System Extension</Name>
         <Setting>1</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
     <AuditSubcategory>
         <GUID>{0cce9212-69ae-11d9-bed3-505054503030}</GUID>
         <Name>Audit System Integrity</Name>
         <Setting>3</Setting>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows 10 V1R22\GPOs\{E9917397-BA72-4AEC-A469-2613801DC338}\DomainSysvol\GPO\Machine\microsoft\windows nt\Audit\audit.csv</SourceFile>
+        <SourceFile>microsoft\windows nt\Audit\audit.csv</SourceFile>
         <PolicyName>DoD Windows 10 STIG Computer v1r22</PolicyName>
     </AuditSubcategory>
 </PolicyRules>

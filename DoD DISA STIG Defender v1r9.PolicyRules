@@ -4,7 +4,7 @@
         <Value>PUAProtection</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -12,7 +12,7 @@
         <Value>DisableAutoExclusions</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -20,7 +20,7 @@
         <Value>DisableRemovableDriveScanning</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -28,7 +28,7 @@
         <Value>DisableEmailScanning</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -36,7 +36,7 @@
         <Value>ScheduleDay</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -44,7 +44,7 @@
         <Value>ASSignatureDue</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>7</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -52,7 +52,7 @@
         <Value>AVSignatureDue</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>7</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -60,7 +60,7 @@
         <Value>ScheduleDay</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -68,7 +68,7 @@
         <Value>DisableBlockAtFirstSeen</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>0</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -76,7 +76,7 @@
         <Value>SpynetReporting</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -84,7 +84,7 @@
         <Value>SubmitSamplesConsent</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -92,7 +92,7 @@
         <Value>Threats_ThreatSeverityDefaultAction</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -100,7 +100,7 @@
         <Value>5</Value>
         <RegType>REG_SZ</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -108,7 +108,7 @@
         <Value>4</Value>
         <RegType>REG_SZ</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -116,7 +116,7 @@
         <Value>2</Value>
         <RegType>REG_SZ</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -124,7 +124,7 @@
         <Value>1</Value>
         <RegType>REG_SZ</RegType>
         <RegData>2</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -132,7 +132,7 @@
         <Value>ExploitGuard_ASR_Rules</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -140,7 +140,7 @@
         <Value>BE9BA2D9-53EA-4CDC-84E5-9B1EEEE46550</Value>
         <RegType>REG_SZ</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -148,7 +148,7 @@
         <Value>D4F940AB-401B-4EFC-AADC-AD5F3C50688A</Value>
         <RegType>REG_SZ</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -156,7 +156,7 @@
         <Value>3B576869-A4EC-4529-8536-B80A7769E899</Value>
         <RegType>REG_SZ</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -164,7 +164,7 @@
         <Value>75668C1F-73B5-4CF0-BB93-3ECF5CB7CC84</Value>
         <RegType>REG_SZ</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -172,7 +172,7 @@
         <Value>D3E037E1-3EB8-44C8-A917-57927947596D</Value>
         <RegType>REG_SZ</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -180,7 +180,7 @@
         <Value>5BEB7EFE-FD9A-4556-801D-275E5FFC04CC</Value>
         <RegType>REG_SZ</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -188,7 +188,7 @@
         <Value>92E97FA1-2EDF-4476-BDD6-9DD0B4DDDC7B</Value>
         <RegType>REG_SZ</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
     <ComputerConfig>
@@ -196,7 +196,7 @@
         <Value>EnableNetworkProtection</Value>
         <RegType>REG_DWORD</RegType>
         <RegData>1</RegData>
-        <SourceFile>C:\Users\Florian\Downloads\U_STIG_GPO_Package_October_2020\DoD Windows Defender Antivirus STIG V1R9\GPOs\{661D663F-E138-4225-9BA8-7F6A0C70EC7F}\DomainSysvol\GPO\Machine\registry.pol</SourceFile>
+        <SourceFile>registry.pol</SourceFile>
         <PolicyName>DoD Windows Defender Antivirus STIG Computer v1r9</PolicyName>
     </ComputerConfig>
 </PolicyRules>
