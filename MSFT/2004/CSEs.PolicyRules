@@ -1,0 +1,34 @@
+﻿<PolicyRules>
+    <CSE-Machine>
+        <GUID>{2A8FDC61-2347-4C87-92F6-B05EB91A201A}</GUID>
+        <Name>Group Policy Mitigation Options</Name>
+    </CSE-Machine>
+    <CSE-Machine>
+        <GUID>{35378EAC-683F-11D2-A89A-00C04FBBCFA2}</GUID>
+        <Name>Registry Policy</Name>
+    </CSE-Machine>
+    <CSE-Machine>
+        <GUID>{7933F41E-56F8-41D6-A31C-4148A711EE93}</GUID>
+        <Name>Windows Search Group Policy Extension</Name>
+    </CSE-Machine>
+    <CSE-Machine>
+        <GUID>{827D319E-6EAC-11D2-A4EA-00C04F79F83A}</GUID>
+        <Name>Security</Name>
+    </CSE-Machine>
+    <CSE-Machine>
+        <GUID>{D76B9641-3288-4F75-942D-087DE603E3EA}</GUID>
+        <Name>Local Administrator Password Solution (LAPS)</Name>
+    </CSE-Machine>
+    <CSE-Machine>
+        <GUID>{F312195E-3D9D-447A-A3F5-08DFFA24735E}</GUID>
+        <Name>Device Guard</Name>
+    </CSE-Machine>
+    <CSE-Machine>
+        <GUID>{F3CCC681-B74C-4060-9F26-CD84525DCA2A}</GUID>
+        <Name>Audit Policy Configuration</Name>
+    </CSE-Machine>
+    <CSE-User>
+        <GUID>{35378EAC-683F-11D2-A89A-00C04FBBCFA2}</GUID>
+        <Name>Registry Policy</Name>
+    </CSE-User>
+</PolicyRules>
