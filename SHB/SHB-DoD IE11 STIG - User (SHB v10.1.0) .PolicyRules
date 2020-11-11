@@ -1,0 +1,42 @@
+﻿<PolicyRules>
+    <UserConfig>
+        <Key>Software\Policies\Microsoft\Internet Explorer\Control Panel</Key>
+        <Value>FormSuggest</Value>
+        <RegType>REG_DWORD</RegType>
+        <RegData>1</RegData>
+        <SourceFile>C:\Users\Florian\Dev\Windows-Secure-Host-Baseline\Internet Explorer\Group Policy Objects\User\{AF749E88-41DD-4DA8-8BD7-5CCEBABB6B75}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <PolicyName>DoD IE11 STIG - User (SHB v10.1.0) </PolicyName>
+    </UserConfig>
+    <UserConfig>
+        <Key>Software\Policies\Microsoft\Internet Explorer\Control Panel</Key>
+        <Value>FormSuggest Passwords</Value>
+        <RegType>REG_DWORD</RegType>
+        <RegData>1</RegData>
+        <SourceFile>C:\Users\Florian\Dev\Windows-Secure-Host-Baseline\Internet Explorer\Group Policy Objects\User\{AF749E88-41DD-4DA8-8BD7-5CCEBABB6B75}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <PolicyName>DoD IE11 STIG - User (SHB v10.1.0) </PolicyName>
+    </UserConfig>
+    <UserConfig>
+        <Key>Software\Policies\Microsoft\Internet Explorer\Main</Key>
+        <Value>Use FormSuggest</Value>
+        <RegType>REG_SZ</RegType>
+        <RegData>no</RegData>
+        <SourceFile>C:\Users\Florian\Dev\Windows-Secure-Host-Baseline\Internet Explorer\Group Policy Objects\User\{AF749E88-41DD-4DA8-8BD7-5CCEBABB6B75}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <PolicyName>DoD IE11 STIG - User (SHB v10.1.0) </PolicyName>
+    </UserConfig>
+    <UserConfig>
+        <Key>Software\Policies\Microsoft\Internet Explorer\Main</Key>
+        <Value>FormSuggest Passwords</Value>
+        <RegType>REG_SZ</RegType>
+        <RegData>no</RegData>
+        <SourceFile>C:\Users\Florian\Dev\Windows-Secure-Host-Baseline\Internet Explorer\Group Policy Objects\User\{AF749E88-41DD-4DA8-8BD7-5CCEBABB6B75}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <PolicyName>DoD IE11 STIG - User (SHB v10.1.0) </PolicyName>
+    </UserConfig>
+    <UserConfig>
+        <Key>Software\Policies\Microsoft\Internet Explorer\Main</Key>
+        <Value>FormSuggest PW Ask</Value>
+        <RegType>REG_SZ</RegType>
+        <RegData>no</RegData>
+        <SourceFile>C:\Users\Florian\Dev\Windows-Secure-Host-Baseline\Internet Explorer\Group Policy Objects\User\{AF749E88-41DD-4DA8-8BD7-5CCEBABB6B75}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <PolicyName>DoD IE11 STIG - User (SHB v10.1.0) </PolicyName>
+    </UserConfig>
+</PolicyRules>

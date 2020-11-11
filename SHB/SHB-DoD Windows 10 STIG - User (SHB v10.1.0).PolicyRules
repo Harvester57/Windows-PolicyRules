@@ -1,0 +1,26 @@
+﻿<PolicyRules>
+    <UserConfig>
+        <Key>Software\Policies\Microsoft\Windows\Control Panel\Desktop</Key>
+        <Value>ScreenSaverIsSecure</Value>
+        <RegType>REG_SZ</RegType>
+        <RegData>1</RegData>
+        <SourceFile>C:\Users\Florian\Dev\Windows-Secure-Host-Baseline\Windows\Group Policy Objects\User\{B30BE6B3-794A-43CC-B6A4-52C447CEE0A7}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <PolicyName>DoD Windows 10 STIG - User (SHB v10.1.0)</PolicyName>
+    </UserConfig>
+    <UserConfig>
+        <Key>Software\Policies\Microsoft\Windows\Control Panel\Desktop</Key>
+        <Value>ScreenSaveActive</Value>
+        <RegType>REG_SZ</RegType>
+        <RegData>1</RegData>
+        <SourceFile>C:\Users\Florian\Dev\Windows-Secure-Host-Baseline\Windows\Group Policy Objects\User\{B30BE6B3-794A-43CC-B6A4-52C447CEE0A7}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <PolicyName>DoD Windows 10 STIG - User (SHB v10.1.0)</PolicyName>
+    </UserConfig>
+    <UserConfig>
+        <Key>Software\Policies\Microsoft\Windows\CurrentVersion\PushNotifications</Key>
+        <Value>NoToastApplicationNotificationOnLockScreen</Value>
+        <RegType>REG_DWORD</RegType>
+        <RegData>1</RegData>
+        <SourceFile>C:\Users\Florian\Dev\Windows-Secure-Host-Baseline\Windows\Group Policy Objects\User\{B30BE6B3-794A-43CC-B6A4-52C447CEE0A7}\DomainSysvol\GPO\User\registry.pol</SourceFile>
+        <PolicyName>DoD Windows 10 STIG - User (SHB v10.1.0)</PolicyName>
+    </UserConfig>
+</PolicyRules>
