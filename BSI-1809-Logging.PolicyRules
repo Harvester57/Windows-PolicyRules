@@ -1,0 +1,518 @@
+<PolicyRules>
+  <ComputerConfig>
+    <Key>SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\Audit</Key>
+    <Value>ProcessCreationIncludeCmdLine_Enabled</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\EventLog\Application</Key>
+    <Value>MaxSize</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>32768</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\EventLog\Application</Key>
+    <Value>Retention</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>0</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\EventLog\Security</Key>
+    <Value>MaxSize</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>524288</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\EventLog\Security</Key>
+    <Value>Retention</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>0</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\EventLog\Setup</Key>
+    <Value>MaxSize</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>32768</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\EventLog\Setup</Key>
+    <Value>Retention</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>0</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\EventLog\System</Key>
+    <Value>MaxSize</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>32768</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\EventLog\System</Key>
+    <Value>Retention</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>0</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\PowerShell\ModuleLogging</Key>
+    <Value>EnableModuleLogging</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\PowerShell\ModuleLogging\ModuleNames</Key>
+    <Value>*</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>*</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\PowerShell\ModuleLogging\ModuleNames</Key>
+    <Value>**delvals.</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>
+    </RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging</Key>
+    <Value>**del.EnableScriptBlockInvocationLogging</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>
+    </RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging</Key>
+    <Value>EnableScriptBlockLogging</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\PowerShell\Transcription</Key>
+    <Value>EnableInvocationHeader</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\PowerShell\Transcription</Key>
+    <Value>EnableTranscripting</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\Windows\PowerShell\Transcription</Key>
+    <Value>OutputDirectory</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>
+    </RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall</Key>
+    <Value>PolicyVersion</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>541</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile\Logging</Key>
+    <Value>LogDroppedPackets</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile\Logging</Key>
+    <Value>LogFilePath</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>%systemroot%\system32\logfiles\firewall\domainfw.log</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile\Logging</Key>
+    <Value>LogFileSize</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>16384</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile\Logging</Key>
+    <Value>LogSuccessfulConnections</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\PrivateProfile\Logging</Key>
+    <Value>LogDroppedPackets</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\PrivateProfile\Logging</Key>
+    <Value>LogFilePath</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>%systemroot%\system32\logfiles\firewall\privatefw.log</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\PrivateProfile\Logging</Key>
+    <Value>LogFileSize</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>16384</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\PrivateProfile\Logging</Key>
+    <Value>LogSuccessfulConnections</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\PublicProfile\Logging</Key>
+    <Value>LogDroppedPackets</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\PublicProfile\Logging</Key>
+    <Value>LogFilePath</Value>
+    <RegType>REG_SZ</RegType>
+    <RegData>%systemroot%\system32\logfiles\firewall\publicfw.log</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\PublicProfile\Logging</Key>
+    <Value>LogFileSize</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>16384</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SOFTWARE\Policies\Microsoft\WindowsFirewall\PublicProfile\Logging</Key>
+    <Value>LogSuccessfulConnections</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>1</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <ComputerConfig>
+    <Key>SYSTEM\CurrentControlSet\Services\Eventlog\Security</Key>
+    <Value>WarningLevel</Value>
+    <RegType>REG_DWORD</RegType>
+    <RegData>90</RegData>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </ComputerConfig>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Accessibility\ATs",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;SA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunonceEx",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Shutdown",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Startup",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\Scripts\Logoff",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\Scripts\Logon",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\Scripts\Shutdown",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Policies\Microsoft\Windows\System\Scripts\Startup",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Wow6432Node\Microsoft\Active Setup\Installed Components",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnceEx",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SYSTEM\CurrentControlSet\Control\Lsa",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;SA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SYSTEM\CurrentControlSet\Control\SafeBoot",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;SA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\Wds\rdpwd",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;CISA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Keys">
+    <LineItem>"MACHINE\SYSTEM\CurrentControlSet\Services",0,"D:PAR(A;CI;KA;;;BA)(A;CIIO;KA;;;CO)(A;CI;KA;;;SY)(A;CI;KR;;;BU)(A;CI;KR;;;S-1-15-2-1)S:AR(AU;SA;DCLCSDWDWO;;;WD)"</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Values">
+    <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\CrashOnAuditFail=4,0</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <SecurityTemplate Section="Registry Values">
+    <LineItem>MACHINE\System\CurrentControlSet\Control\Lsa\SCENoApplyLegacyAuditPolicy=4,1</LineItem>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </SecurityTemplate>
+  <AuditSubcategory>
+    <GUID>{0cce9210-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>SicherheitsstatusÃ¤nderung Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9211-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Sicherheitssystemerweiterung Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9212-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>SystemintegritÃ¤t Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9214-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Andere Systemereignisse Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9215-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Anmelden Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9216-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Abmelden Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9217-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Kontosperrung Ã¼berwachen</Name>
+    <Setting>2</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce921b-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Spezielle Anmeldung Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce921c-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Andere Anmelde-/Abmeldeereignisse Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce921e-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Registrierung Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9224-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Dateifreigabe Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9227-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Andere Objektzugriffsereignisse Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9228-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Sensible Verwendung von Rechten Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce922b-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Prozesserstellung Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce922f-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>ÃberwachungsrichtlinienÃ¤nderung Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9230-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>AuthentifizierungsrichtlinienÃ¤nderung Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9231-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>AutorisierungsrichtlinienÃ¤nderung Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9232-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>MPSSVC-RichtlinienÃ¤nderung auf Regelebene Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9234-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Andere RichtlinienÃ¤nderungsereignisse Ã¼berwachen</Name>
+    <Setting>2</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9235-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Benutzerkontenverwaltung Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9237-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Sicherheitsgruppenverwaltung Ã¼berwachen</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce923f-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>ÃberprÃ¼fen der Anmeldeinformationen Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9244-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Detaillierte Dateifreigabe Ã¼berwachen</Name>
+    <Setting>2</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9245-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Wechselmedien Ã¼berwachen</Name>
+    <Setting>3</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9248-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>PNP-ÃberwachungsaktivitÃ¤t</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <AuditSubcategory>
+    <GUID>{0cce9249-69ae-11d9-bed3-505054503030}</GUID>
+    <Name>Mitgliedschaft in der Ãberwachungsgruppe</Name>
+    <Setting>1</Setting>
+    <PolicyName>Logging (ND, NE, HD) - Computer</PolicyName>
+  </AuditSubcategory>
+  <CSE-Machine>
+    <GUID>{00000000-0000-0000-0000-000000000000}</GUID>
+    <Name>Unknown GP Extension</Name>
+  </CSE-Machine>
+  <CSE-Machine>
+    <GUID>{35378EAC-683F-11D2-A89A-00C04FBBCFA2}</GUID>
+    <Name>Registry Policy</Name>
+  </CSE-Machine>
+  <CSE-Machine>
+    <GUID>{42B5FAAE-6536-11D2-AE5A-0000F87571E3}</GUID>
+    <Name>Scripts</Name>
+  </CSE-Machine>
+  <CSE-Machine>
+    <GUID>{827D319E-6EAC-11D2-A4EA-00C04F79F83A}</GUID>
+    <Name>Security</Name>
+  </CSE-Machine>
+  <CSE-Machine>
+    <GUID>{B087BE9D-ED37-454F-AF9C-04291E351182}</GUID>
+    <Name>StratÃ©gie de groupe Registre</Name>
+  </CSE-Machine>
+  <CSE-Machine>
+    <GUID>{F3CCC681-B74C-4060-9F26-CD84525DCA2A}</GUID>
+    <Name>Audit Policy Configuration</Name>
+  </CSE-Machine>
+</PolicyRules>
